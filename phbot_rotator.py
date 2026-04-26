@@ -10,8 +10,8 @@ CURRENT_VERSION = "1.0.0"
 GITHUB_USER  = "ahmedcullen75-star"
 GITHUB_REPO  = "Manager-rotator"
 GITHUB_BRANCH = "main"
-VERSION_URL  = f"https://github.com/ahmedcullen75-star/Manager-rotator/blob/main/version.txt"
-EXE_URL      = f"https://github.com/ahmedcullen75-star/Manager-rotator.git"
+VERSION_URL = f"https://raw.githubusercontent.com/ahmedcullen75-star/Manager-rotator/main/version.txt"
+EXE_URL     = f"https://github.com/ahmedcullen75-star/Manager-rotator/releases/latest/download/phBot.Rotator.exe"
 
 # ── Colors ────────────────────────────────────────────────────────────────────
 DARK   = "#1a1a2e"
