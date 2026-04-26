@@ -4,7 +4,7 @@ import subprocess, threading, psutil, time, os, json, sys, ctypes
 import hashlib, uuid, csv, io, urllib.request, urllib.parse
 
 # ── Version ───────────────────────────────────────────────────────────────────
-CURRENT_VERSION = "1.0.1"
+CURRENT_VERSION = "1.0.2"
 
 # ── GitHub Auto Update ────────────────────────────────────────────────────────
 GITHUB_USER  = "ahmedcullen75-star"
